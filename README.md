@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the **Full Stack eCommerce Application** built using **Spring Boot** for the backend and **React** for the frontend. It leverages modern technologies and best practices to create a scalable, secure, and user-friendly application.
 
-This project is the culmination of a comprehensive 50+ hour course focused on mastering **Spring Framework**, **Spring Boot**, **Spring Security**, **React**, and related technologies. The application is designed to cover all aspects of a real-world eCommerce system, from user authentication to order management and deployment.
+This project is the culmination of creating an application designed to cover all aspects of a real-world eCommerce system, from user authentication to order management and deployment.
 
 ---
 
