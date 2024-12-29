@@ -99,9 +99,9 @@ This repository contains a **Full Stack eCommerce Application** built with **Spr
 This application demonstrates the seamless integration of backend and frontend components, delivering a feature-rich and user-friendly eCommerce platform. Below are some key screenshots:
 
 ![Home Page](Images/HomePage.png)
-![CRUD Operations](Images/CRUD.png)
-![Shopping Cart](Images/Cart.png)
 ![Product Listings](Images/Products.png)
+![Shopping Cart](Images/Cart.png)
+![CRUD Operations](Images/CRUD.png)
 
 ---
 
