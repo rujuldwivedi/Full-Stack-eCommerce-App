@@ -1,6 +1,6 @@
 # Full Stack eCommerce App
 
-![Project Banner](Shopping-Cart/Images/banner.png)
+![Project Banner](Shopping%20Cart/Images/banner.png)
 
 ## Overview
 Welcome to the **Full Stack eCommerce Application** built using **Spring Boot** for the backend and **React** for the frontend. It leverages modern technologies and best practices to create a scalable, secure, and user-friendly application.
