@@ -117,7 +117,56 @@ To set up and run the project locally:
 
 ### Steps
 
-#### Backend
-1. Clone the repository:
-   ```plaintext
-   git clone https://github.com/rujuldwivedi/full-stack-ecommerce-app.git
+#### Clone the Repository
+  ```
+      git clone https://github.com/rujuldwivedi/Full-Stack-Ecommerce-App.git
+  ```
+
+#### Navigate to the Project Directory
+  ```
+   cd full-stack-ecommerce-app
+  ```
+
+#### Backend Setup
+1. Create a PostgreSQL or MySQL database.
+2. Update database configurations in the `application.properties` file in the `ecom-backend` directory.
+3. Build and run the backend:
+   - Use your preferred IDE or:
+     ```
+        ./mvnw spring-boot:run
+     ```
+
+4. The backend will run on port 8080.
+
+#### Frontend Setup
+1. Navigate to the `ecom-frontend` directory:
+   ```
+      cd Shopping\ Cart/ecom-frontend
+   ```
+
+2. Install dependencies:
+   ```
+      npm install
+   ```
+
+3. Start the React development server:
+   ```
+      npm run dev
+   ```
+
+4. The frontend will run on port 5173.
+
+### Testing the API
+1. Use **Postman** or a similar API testing tool to verify backend endpoints. The default backend URL is `http://localhost:8080`.
+
+### Access the Application
+1. Open the frontend in your browser:
+   - `http://localhost:5173`
+2. Backend API can be tested at:
+   - `http://localhost:8080`
+
+---
+
+## Acknowledgements
+
+Special thanks to instructors and mentors for their guidance throughout this project. Their expertise greatly contributed to its success.
