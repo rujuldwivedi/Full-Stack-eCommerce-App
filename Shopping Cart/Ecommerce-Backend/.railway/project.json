@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {
+      "RAILWAY_SKIP_INSTALL": "true"
+    }
+  }
+}
